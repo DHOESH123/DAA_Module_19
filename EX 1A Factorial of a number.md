@@ -1,7 +1,7 @@
 # EX 1A Write a Python Program to print factorial of a number recursively.
 
 
-## DATE:29/04/25
+## DATE:
 ## AIM:
 To write a program to create a factorial of a number recursively.
 
